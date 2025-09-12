@@ -9,6 +9,7 @@ public class Day1 {
 	public void Test1() {
 		
 		System.out.println("Hi Kiyansh");
+                System.out.println("Hi Kishan");
 	}
 	
 @BeforeTest
