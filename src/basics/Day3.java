@@ -10,7 +10,7 @@ public class Day3 {
 	@Test
 	public void weblogincar() {
 		
-		System.out.println("weblogincar");
+		System.out.println("weblogincar-login");
 	}
 	
 	@Test(groups= {"smoke"})
