@@ -22,7 +22,7 @@ public void afsut() {
 	@Test(groups= {"smoke"})
 	public void Testb() {
 		
-		System.out.println("Nirosha");
+		System.out.println("Nirosha-myself");
 	}
 	@Test
 	public void Testa() {
