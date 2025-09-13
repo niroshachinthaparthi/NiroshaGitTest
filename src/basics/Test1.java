@@ -16,6 +16,7 @@ public class Test1 {
 	@Test(timeOut=4000) // explicitly wait for 4 sec
 	public void sumi() {
 		System.out.println("Iam mother");
+System.out.println("Myname is Sumithra");
 		
 	}
 	
